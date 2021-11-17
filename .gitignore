@@ -1,0 +1,12 @@
+# Bundler
+bin/*
+target/
+.DS_Store
+**/.DS_Store
+.settings
+.idea
+logs/
+/.target
+/.classpath
+/.project
+.idea_modules
